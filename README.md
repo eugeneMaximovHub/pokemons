@@ -10,11 +10,15 @@ For the start you can put on this [button](https://github.com/Gutaline/pokemons/
 
 or
 
-clone this rep and write in the console
+clone this rep and write in the console:
+
+### `git clone https://github.com/Gutaline/pokemons.git`
+
+download all the necessary packages:
 
 ### `npm i`
 
-and then
+and then:
 
 ### `npm start`
 
